@@ -36,6 +36,8 @@ Manual install:
 
 If you want to keep mod data intact but still play without mods, verifying the game files is enough. Just make sure to run the game through Steam/Epic, *not* OWML.Launcher.exe.
 
+This mod is especially cool when you reach the giant owl monster at the end and the sun explodes. 
+
 ## For modders
 
 [Read the OWML docs to learn how to use it](https://owml.outerwildsmods.com/). Refer to the sample mods in the source code for examples. These mods are not included in releases. 
